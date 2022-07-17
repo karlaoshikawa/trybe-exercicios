@@ -1,13 +1,33 @@
 ol {
     background-color: yellow;
+    font-weight: 600;
 }
 
 .impar {
- text-transform: uppercase;
+    text-transform: uppercase;
 }
 
 .par {
     color: green;
 }
 
-h1, 
+h1, h3 {
+    color: red;
+}
+
+h1 {
+    font-size:40px;
+    border: 1px solid black;
+}
+
+li {
+    font-size: 20px;
+}
+
+.blue-font {
+    color: blue;
+}
+
+.pink-background {
+    background-color: pink;
+}
