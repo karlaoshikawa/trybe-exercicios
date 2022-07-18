@@ -31,3 +31,30 @@ li {
 .pink-background {
     background-color: pink;
 }
+
+/* bonus */
+.aliados:hover {
+    font-weight: 600;
+    }
+
+     #stack:hover a
+     {
+        color: orange;
+    }
+
+    #w3:hover a {
+        color: green;
+    }
+
+    #mdn:hover a {
+        color: black;
+    }
+
+    #devdocs:hover a {
+        color: yellow
+    }
+
+    #trybe:hover a {
+        color: green
+    }
+   
