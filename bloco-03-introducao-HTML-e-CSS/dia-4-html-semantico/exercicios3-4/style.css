@@ -1,0 +1,29 @@
+body {
+    background-color: #071000;
+
+}
+
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: 65px;
+    padding-top: 100px;
+    padding-left: 80px;
+    color: aqua;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: 100px;
+    font-style: italic;
+    padding-left: 80px;
+    color: rgb(233, 159, 11);
+}
+
+header {
+    background-image: url(/img/topo-stomatopoda.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-bottom: 5px;
+}
